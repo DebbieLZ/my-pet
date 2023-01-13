@@ -16,3 +16,8 @@ p {
 ul {
   color:black
 }
+
+.centered-image {
+  width: 50%;
+  height: auto;
+}
